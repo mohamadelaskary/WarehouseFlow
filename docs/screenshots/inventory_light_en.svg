@@ -1,0 +1,33 @@
+<svg width="300" height="600" viewBox="0 0 300 600" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="screen"><rect x="0" y="0" width="300" height="600" rx="22"/></clipPath>
+</defs>
+<rect x="-12" y="-12" width="324" height="624" rx="34" fill="#1A1A1A"/>
+<g clip-path="url(#screen)">
+<rect x="0" y="0" width="300" height="600" fill="#EFF1F0"/>
+<rect x="0" y="0" width="300" height="90" fill="#1F3A5F"/>
+<text x="20" y="42" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="600">Inventory</text>
+<text x="20" y="62" fill="#C9D6E4" font-family="Helvetica, Arial, sans-serif" font-size="11">128 pallets &#183; Warehouse A</text>
+
+<rect x="16" y="110" width="268" height="90" rx="8" fill="#FFFFFF"/>
+<text x="32" y="136" fill="#23262B" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Row A-12</text>
+<rect x="186" y="118" width="96" height="22" rx="4" fill="#3F7D4F"/>
+<text x="234" y="133" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="600" text-anchor="middle">In stock</text>
+<rect x="32" y="150" width="150" height="28" rx="2" fill="#10131A"/>
+<text x="42" y="169" fill="#7CE0A8" font-family="Courier New, monospace" font-size="12" letter-spacing="2">PLT-88213</text>
+
+<rect x="16" y="210" width="268" height="90" rx="8" fill="#FFFFFF"/>
+<text x="32" y="236" fill="#23262B" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Row B-04</text>
+<rect x="176" y="218" width="106" height="22" rx="4" fill="#B4750E"/>
+<text x="229" y="233" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Pending sync</text>
+<rect x="32" y="250" width="150" height="28" rx="2" fill="#10131A"/>
+<text x="42" y="269" fill="#7CE0A8" font-family="Courier New, monospace" font-size="12" letter-spacing="2">PLT-77410</text>
+
+<rect x="16" y="310" width="268" height="90" rx="8" fill="#FFFFFF"/>
+<text x="32" y="336" fill="#23262B" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Row A-03</text>
+<rect x="196" y="318" width="86" height="22" rx="4" fill="#B23A34"/>
+<text x="239" y="333" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Exception</text>
+<rect x="32" y="350" width="150" height="28" rx="2" fill="#10131A"/>
+<text x="42" y="369" fill="#7CE0A8" font-family="Courier New, monospace" font-size="12" letter-spacing="2">PLT-90045</text>
+</g>
+</svg>

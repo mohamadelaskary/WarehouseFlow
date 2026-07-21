@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_in_stock">In stock</string>
+    <string name="status_in_transit">In transit</string>
+    <string name="status_delivered">Delivered</string>
+    <string name="status_exception">Exception</string>
+    <string name="sync_pending">Pending sync</string>
+    <string name="sync_synced">Synced</string>
+    <string name="empty_state_default_action">Refresh</string>
+    <string name="scan_readout_placeholder">Awaiting scan…</string>
+</resources>

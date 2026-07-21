@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_in_stock">متاح بالمخزن</string>
+    <string name="status_in_transit">قيد النقل</string>
+    <string name="status_delivered">تم التسليم</string>
+    <string name="status_exception">استثناء</string>
+    <string name="sync_pending">في انتظار المزامنة</string>
+    <string name="sync_synced">تمت المزامنة</string>
+    <string name="empty_state_default_action">تحديث</string>
+    <string name="scan_readout_placeholder">في انتظار المسح…</string>
+</resources>
